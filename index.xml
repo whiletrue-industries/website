@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/</link>
+    <description>Recent content on while true industries { solutions for data }</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Feb 2024 15:43:08 +0200</lastBuildDate><atom:link href="https://whiletrue.industries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A complete solution to running CKAN infrastructure in the cloud.</title>
+      <link>https://whiletrue.industries/showcase/ckan-cloud/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/ckan-cloud/</guid>
+      <description>CKAN Cloud is ideal for large organizations managing multiple data catalogs for a number of sub-organizations, or multi-stage data warehouses with unique processing and access control requirements, reducing the complexity and cost of managing multiple distinct CKAN installations.
+Ideal for  Government agencies providing data catalogs for a number of administrations Corporation providing a internal data registries with distinct access control requirements Multi-stage data warehouses for data science and business analyst teams  Core features  Multi-tenant CKAN architecture that leverages Kubernetes to its fullest.</description>
+    </item>
+    
+    <item>
+      <title>Academic Feminist Organizations Database (WPA-IL)</title>
+      <link>https://whiletrue.industries/showcase/maarag/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/maarag/</guid>
+      <description>The WPA-IL database is a comprehensive collection of governmental and non-governmental mechanisms to promote women’s equality, feminism, gender and LGBT rights, which were established in Israel from 1970 to 2018, created an maintained by the Gender Studies Program at Ben Gurion University of the Negev. The websites provides a comprehensive and interactive interface to explore the various organizations and mechanisms, and to compare and contrast the different mechanisms. It also provides extensive documentation of the dataset and the methodology used to collect and process the data.</description>
+    </item>
+    
+    <item>
+      <title>Cataloguing and Mapping Israel&#39;s Social Responses</title>
+      <link>https://whiletrue.industries/showcase/kol-sherut/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/kol-sherut/</guid>
+      <description>An extension to Israel&amp;rsquo;s long-running &amp;ldquo;Kol-Zchut&amp;rdquo; website, the &amp;ldquo;Kol Sherut&amp;rdquo; project aims to provide a comprehensive and up-to-date database of all social services available to Israeli citizens. Scraping and collecting data from various sources, the project maps the data onto a single schema and taxonomy (based on Open Referral&amp;rsquo;s Human Services Data Specification, and adapted to Israel&amp;rsquo;s case) and provides a user-friendly interface for citizens to find the services they need.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Checks and Balances in Democracies</title>
+      <link>https://whiletrue.industries/showcase/gov-limitations/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/gov-limitations/</guid>
+      <description>In collaboration with The Berl Katznelson Foundation, an interactive &amp;ldquo;scrollytelling&amp;rdquo; website was developed to explore the different checks and balances in place in various democracies around the world. The website explains the different mechanisms in place in various countries, and allows the user to compare and contrast the number of checks and balances in place in each country - and compare it to the current state in Israel, especially in light of recent attempted legislation targeted at Israels Supreme Court.</description>
+    </item>
+    
+    <item>
+      <title>How do normal people look like? An Art Installation</title>
+      <link>https://whiletrue.industries/showcase/normalizing/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/normalizing/</guid>
+      <description>Normalizi.ng is an experimental online research in machine-learning that aims to analyze and understand how do we decide who looks more “normal”. When you visit www.Normalizi.ng on your phone you will be asked to take a selfie and then be presented with a series of previously recorded participants. You will then choose who looks more “normal” between pairs of noses, mouths, eyes, and faces. The machine will analyze your decisions and your face and then add you to it’s algorithmic map of normality.</description>
+    </item>
+    
+    <item>
+      <title>Mapping Israel&#39;s Urban Trees for Better City Planning</title>
+      <link>https://whiletrue.industries/showcase/digital-forest/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/digital-forest/</guid>
+      <description>Following a government resolution to improve the state of shading in Israel&amp;rsquo;s urban areas, the Digital Forest Project collects and processes information about urban trees from various sources - tree surveys, various existing databases and sattelite imagery analysis. The project provides a central viewing interface used by decision makers and city officials for better planning, resource allocation and information sharing.</description>
+    </item>
+    
+    <item>
+      <title>Providing Open Data Portals as a Service for Israeli Municipalities</title>
+      <link>https://whiletrue.industries/showcase/datacity/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/datacity/</guid>
+      <description>Using our ckan cloud solution, we have developed a platform that enables the Public Knowledge Workshop to provide CKAN as a service to Israeli Municipalities. Ths basic instance is modified and tailored to the specific needs of municipalities - including multi-lingual support, theming, and integration with national level data sources.
+The platform is designed to be easily managed by a local administrator and easily maintained by the Public Knowledge Workshop.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Public, Centralized Search Index for Clinical Trial Metadata</title>
+      <link>https://whiletrue.industries/showcase/open-data-clinical-trials/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/open-data-clinical-trials/</guid>
+      <description>Multiple clinical trials carried out worldwide don’t publish their results. This is despite the fact that this data could be speeding up other trials elsewhere and providing medical researchers and practitioners with valuable information. Open Trials is a response to this crisis, providing an online data portal that aims to locate and share all publicly-accessible data and documents on all medicines and medical trials. While working at the Open Knowledge Foundation, Paul acted as Project Manager and Technical Architect for the Open Trials project, overseeing the overall project direction while implementing many of the technical features.</description>
+    </item>
+    
+    <item>
+      <title>Ensuring Access to Water Point Data</title>
+      <link>https://whiletrue.industries/showcase/water-point-data-exchange/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/water-point-data-exchange/</guid>
+      <description>Open data plays a crucial role in supporting humanitarian aid initiatives. With the WPDx, actors on the ground can gather water point information and upload it straight to the portal. The project was funded by the Global Environment and Technology Foundation and developed by while true’s Adam, who built in a data ingestion engine that allows organizations on the ground to upload their data as they collect it. The platform maps data onto a schema before uploading it to a central database, where it undergoes further cleaning, de-duplication and geoprocessing to maximise its usefulness for stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Giving a Platform to Gender-Equality Data</title>
+      <link>https://whiletrue.industries/showcase/open-data-gender-equality-israel/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/open-data-gender-equality-israel/</guid>
+      <description>Research institutions worldwide are building open data portals to share their findings with citizens everywhere. She Knows (‘Yodaat’), Israel’s Gender Knowledge Center, offers an open data website that presents a large collection of publications, datasets and other information related to gender issues in Israel and elsewhere. With funding from the Ministry of Social Equity, the website was built by the team at the Public Knowledge Workshop, an Israeli nonprofit of which while true’s Adam is co-founder.</description>
+    </item>
+    
+    <item>
+      <title>Improving Data Usability at a Major Global Philanthropic Organization</title>
+      <link>https://whiletrue.industries/showcase/data-cataloging-usability-philanthropy/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/data-cataloging-usability-philanthropy/</guid>
+      <description>Data management is becoming an increasingly important concern for philanthropic organizations, which collect diverse data from multiple sources in an effort to raise public awareness of certain issues and influence policymaking. For years, Paul worked with one of the world’s largest philanthropic organizations to build and customize their CKAN data portal that would allow them to share data internally and with external stakeholders. In his capacity as Product Owner for the delivery team and Strategy Consultant to the client leadership, Paul defined the product direction and provided practical expertise on best approaches to complex technical features like data versioning and access permissioning.</description>
+    </item>
+    
+    <item>
+      <title>Introducing the Data Genus Processor (DGP) &amp; Dataflows Libraries</title>
+      <link>https://whiletrue.industries/showcase/dataflows-and-data-genus-processor/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/dataflows-and-data-genus-processor/</guid>
+      <description>While true design, contribute to, and maintain a number of well-adopted, open-source libraries for working with data. Dataflows and DGP were built and maintained with open source methodologies and are the main power tools behind most of our data processing projects. From a simple solution for a small dataset up to a complete data ingestion platform for cleaning, mapping and publishing datasets, these two libraries are field-proven to provide a reliable and quick solution.</description>
+    </item>
+    
+    <item>
+      <title>Opening Up Municipal Data in the Israeli City of Beersheba</title>
+      <link>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</guid>
+      <description>Like many cities worldwide, Beersheba uses CKAN to openly publish municipal data. When they engaged while true founder Adam, the city’s authorities were looking to replace an old CKAN instance and migrate their data into a new, improved CKAN solution. Adam worked with Beersheba to a) create a containerized CKAN deployment that was customized to their needs, b) modify their instance to suit their data schema, and c) develop a custom ETL service based on the Jenkins platform and the Dataflows Library that pulled data from various internal, domain-specific systems (such as ESRI ArcGIS).</description>
+    </item>
+    
+    <item>
+      <title>Predicting COVID-19 outbreaks by a Symptom Tracking Application</title>
+      <link>https://whiletrue.industries/showcase/corona-israel/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/corona-israel/</guid>
+      <description>Corona Israel was an early symptom-tracking application developed during the first wave of COVID-19 in Israel, done in collaboration with the Weizmann Institute in Israel. The web application provided an interactive, chat-based experience to collect data from visitors, and presented collected information on a map to location potential areas of outbreak. The cloud based backend system integrated WIS data science algorithms to create a ‘probability of outbreak’ map, on a neighborhood level, updated daily.</description>
+    </item>
+    
+    <item>
+      <title>Producing a Data Management Research Paper for the World Bank</title>
+      <link>https://whiletrue.industries/showcase/world-bank-frictionless-data-management/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/world-bank-frictionless-data-management/</guid>
+      <description>The World Bank is one of the world’s major contributors of global development data. A large part of its work includes collecting data sets known as ‘indicators’ to measure the progress of the UN’s Sustainable Development Goals (SDGs). While working as CEO at the data management company Datopian, Paul co-authored a whitepaper commissioned by the Bank to assess the ways in which the open-source toolkit Frictionless Data could benefit statistical organizations in the production of SDG indicators.</description>
+    </item>
+    
+    <item>
+      <title>Producing an SMB Information Portal for the City of Beer Sheba</title>
+      <link>https://whiletrue.industries/showcase/business-gate/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/business-gate/</guid>
+      <description>Business Gate is a project aimed at providing small business entrepreneurs in the city of Beer Sheba relevant information about opportunities, licensing requirements, fees and other various insights - all contextual to their selected business type and location. The innovative user interface, based on a friendly chatbot, takes the user through a list of questions, explanations and deep-dives into the various aspects of starting a business, until finally leaving the user with a handy pack of cards, to be reviewed at all times, and a point of contact in the municipality to follow up the process.</description>
+    </item>
+    
+    <item>
+      <title>Publishing the World’s Primary Fiscal Data Sets</title>
+      <link>https://whiletrue.industries/showcase/openspending/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/openspending/</guid>
+      <description>OpenSpending is an open-source, global database for fiscal data that was developed by the Open Knowledge Foundation (OKF) and primarily funded by The Global Initiative for Fiscal Transparency (GIFT). It while true founders Adam and Paul worked with colleagues at OKF and a range of government and civic tech stakeholders to design a powerful, flexible system that allowed users to upload and visualize fiscal data. As part of this effort, they created a fiscal data schema that later evolved into the full standard known as the Fiscal Data Package.</description>
+    </item>
+    
+    <item>
+      <title>Standardizing UK-Government Fiscal Data</title>
+      <link>https://whiletrue.industries/showcase/uk-governement-fiscal-data/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/uk-governement-fiscal-data/</guid>
+      <description>In a positive trend, multiple governments are choosing to publish finance and spending data as part of open government and transparency initiatives. Public spending data is a great example of a type of public data that should be made open, since how taxpayers’ money is spent is of direct concern to citizens. While CTO at the Open Knowledge Foundation (OKF), Paul worked with the UK Cabinet Office’s Transparency Team, as well as the UK SBS office, to develop technologies and methodologies for standardizing the publication of finance data.</description>
+    </item>
+    
+    <item>
+      <title>Subsidy Stories - making EU Funds transparent</title>
+      <link>https://whiletrue.industries/showcase/subsidy-stories/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/subsidy-stories/</guid>
+      <description>Subsidystories.eu intends to increase transparency of EU-Funds by unravelling how the European Structural Investment Funds are spent (The European Structural and Cohesion Funds (ESIF) are the main financial instrument for the implementation of the EU&amp;rsquo;s regional policy. They cover 44 % of the overall 1082 Billion 7-year EU budget). We collected and standardised all available beneficiary lists for the ERDF, ESF and CF for the 2007-2013 and 2014-2020 funding periods. The data is published independently by all member states and independent regions, in various formats (CSV files, Excel, PDF and websites).</description>
+    </item>
+    
+    <item>
+      <title>Budget Key</title>
+      <link>https://whiletrue.industries/showcase/budgetkey/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/budgetkey/</guid>
+      <description>The BudgetKey project is an open-source, volunteer-based project that has been making Israeli government finances more accessible and understandable to the public for over a decade. From writing the code to heading off to parliament to discuss the project with journalists, the BudgetKey project was completely developed and led by while true co-founder Adam. It offers a powerful ETL feature capable of scraping and collecting data from over 30 different government data sources and combining them into a single database.</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://whiletrue.industries/hire/consulting/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/consulting/</guid>
+      <description>Sometimes all it takes is an expert pair of eyes, so lean on our experience and we’ll make sure your project is doing the best it could be. Whatever you need advice on, we design our involvement as consultants around the type of engagement that works for you.</description>
+    </item>
+    
+    <item>
+      <title>Data Strategy</title>
+      <link>https://whiletrue.industries/hire/data-strategy/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/data-strategy/</guid>
+      <description>From ‘where is all our data?’ to ‘how do we license our data?’, designing technical solutions requires addressing multiple important questions first. We’ll help anticipate the questions that are likely to arise and work with you to find and generate the answers.</description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://whiletrue.industries/hire/engineering/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/engineering/</guid>
+      <description>Our team of vetran technology experts will build your system, from design to deployment. Whether it&amp;rsquo;s a data collection system, a server-side solution or a user-facing application - we have the experience and know how to make it a reality.</description>
+    </item>
+    
+    <item>
+      <title>Technical Architecture</title>
+      <link>https://whiletrue.industries/hire/technical-architecture/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/technical-architecture/</guid>
+      <description>The best modern data solutions are the ones that take non-technical stakeholders and the reality of distributed or inconsistent data sources into account. We know this because we’ve been building them for decades using widely-adopted open-source software.</description>
+    </item>
+    
+    <item>
+      <title>Thank You!</title>
+      <link>https://whiletrue.industries/thank-you/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/thank-you/</guid>
+      <description>Thanks for reaching out!
+We&amp;rsquo;ll get back to you as soon as possible.
+(a copy of your message was sent to your address as well)</description>
+    </item>
+    
+    <item>
+      <title>Adam Kariv</title>
+      <link>https://whiletrue.industries/about/adam-kariv/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0201</pubDate>
+      
+      <guid>https://whiletrue.industries/about/adam-kariv/</guid>
+      <description>Adam Kariv is an open data consultant and activist. He has over 25 years of experience in developing, designing and managing software projects, from open-source data-wrangling libraries to enterprise-scale, mission-critical systems developed by over 20 engineers. He is the founder of the Public Knowledge Workshop (‘Hasadna’), an Israeli NGO working to make government data more accessible, and has extensive experience working with government agencies to build better tools for publishing data.</description>
+    </item>
+    
+    <item>
+      <title>CKAN</title>
+      <link>https://whiletrue.industries/topics/ckan/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/ckan/</guid>
+      <description>The Comprehensive Knowledge Archive Network (CKAN) is the world’s leading open-source software for building data management solutions. Whether your organization is big or small, public or private, CKAN enables you to create tailored systems for publishing, sharing, discovering and using data.
+while true founders Adam and Paul have played pivotal roles in major CKAN projects since the software’s inception in 2014. They have both held technical leadership positions at two organizations with strong links to CKAN, the Open Knowledge Foundation (OKF) and Datopian, during which time Paul was elected as a CKAN steward and steering group member.</description>
+    </item>
+    
+    <item>
+      <title>CKAN Cloud</title>
+      <link>https://whiletrue.industries/solutions/ckan-cloud/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/ckan-cloud/</guid>
+      <description>Take the complexity out of CKAN hosting with our managed, multi-tenant CKAN in the cloud. Our open source CKAN hosting infrastructure runs on Kubernetes (k8s) and can be deployed to any major cloud provider (AWS, Azure, Google Cloud), or your own infrastructure.
+CKAN Cloud is ideal for large organizations managing multiple data catalogs for a number of sub-organizations, or multi-stage data warehouses with unique processing and access control requirements, reducing the complexity and cost of managing multiple distinct CKAN installations.</description>
+    </item>
+    
+    <item>
+      <title>Data Driven Apps</title>
+      <link>https://whiletrue.industries/solutions/data-driven-apps/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/data-driven-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>https://whiletrue.industries/topics/data-engineering/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/data-engineering/</guid>
+      <description>Data engineering concerns itself with the practical applications of data work. To be able to collect, use and analyse data, you first need technical infrastructure and mechanisms to ‘house’ that data. Building, optimizing and maintaining this house is the work of the data engineer.
+while true founders Adam and Paul have decades of experience working on data engineering projects for major national governments, multinational companies and global NGOs. Between them, they have held positions including CTO and Engineering Lead at the international Open Knowledge Foundation (OKF), CEO and Senior Engineer at an enterprise-focused data engineering company, and founder of the Israeli open data nonprofit The Public Knowledge Workshop (‘Hasadna’).</description>
+    </item>
+    
+    <item>
+      <title>Data Engineering Infrastructure</title>
+      <link>https://whiletrue.industries/solutions/data-engineering-infrastructure/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/data-engineering-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Management</title>
+      <link>https://whiletrue.industries/topics/data-management/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/data-management/</guid>
+      <description>Simply put, data management refers to the process of collecting and organising data within an organization. Having a data management strategy and systems for managing data is becoming increasingly important for modern organizations as they respond to the increasing volume and variety of data being produced in the world today.
+while true founders Adam and Paul have worked on some of the world’s leading data management projects and software. They’ve collaborated with national governments, multinational companies, and global NGOs to design, implement and maintain systems tailored to individual objectives, requirements and budgets.</description>
+    </item>
+    
+    <item>
+      <title>Data Management Systems</title>
+      <link>https://whiletrue.industries/solutions/data-management-systems/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/data-management-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>https://whiletrue.industries/topics/open-data/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/open-data/</guid>
+      <description>Open data is public data (such as data relating to taxes, the climate, education, public spending etc) that has been made ‘open’ (available for all to see, use and distribute without cost or need to seek permission) by means of an open licence.
+while true founders Adam and Paul have decades of experience supporting organizations worldwide to embrace the benefits of open data. They spent years at the forefront of open data thought leadership while working in senior management at the world’s largest open data nonprofit, the Open Knowledge Foundation (OKF), and worked together as CEO and Senior Engineer of a private open-source software company with ties to OKF.</description>
+    </item>
+    
+    <item>
+      <title>Open Data Catalogs</title>
+      <link>https://whiletrue.industries/solutions/open-data-catalogs/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/open-data-catalogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://whiletrue.industries/topics/open-source/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/open-source/</guid>
+      <description>Open-source software refers to a type of computer software that is free to use, is not ‘owned’ by any one organization and can be freely copied, distributed and modified under an open license.
+while true founders Adam and Paul have dedicated their professional careers to advocating for open-source data management solutions. In their respective former roles as Engineering Lead and CTO at the Open Knowledge Foundation (OKF), Adam and Paul were some of open source’s earliest proponents.</description>
+    </item>
+    
+    <item>
+      <title>Mushon Zer-Aviv</title>
+      <link>https://whiletrue.industries/about/mushon-zer-aviv/</link>
+      <pubDate>Sat, 30 Jan 2021 19:37:29 +0202</pubDate>
+      
+      <guid>https://whiletrue.industries/about/mushon-zer-aviv/</guid>
+      <description>Mushon Zer-Aviv is a designer, an educator and a media activist based in Tel Aviv. His love/hate relationship with data informs his design work, art pieces, activism, research, lectures, workshops &amp;amp; city life. Among Mushon&amp;rsquo;s collaborations, he is the CO-founder of Shual.com - a foxy design studio; the Normalizing Machine - exploring algorithmic prejudice; the AdNauseam extension - clicking ads so you don&amp;rsquo;t have to; and multiple government transparency and civic participation initiatives with the Public Knowledge Workshop; Mushon also designed the maps for Waze.</description>
+    </item>
+    
+    <item>
+      <title>Mor Rubinstein</title>
+      <link>https://whiletrue.industries/about/mor-rubinstein/</link>
+      <pubDate>Fri, 29 Jan 2021 19:37:29 +0201</pubDate>
+      
+      <guid>https://whiletrue.industries/about/mor-rubinstein/</guid>
+      <description>Mor Rubinstein is a technologist with a decade of experience in data, civic tech and open government. She specializes in data transformation in the third sector, data literacy, open data and data feminism. She is currently the Head of Data Strategy at Parkinson’s UK, where she helps to build better infrastructure and data culture. Previously she worked as the product and program manager at 360Giving, where she developed a data standard for philanthropy.</description>
+    </item>
+    
+    <item>
+      <title>Paul Walsh</title>
+      <link>https://whiletrue.industries/about/paul-walsh/</link>
+      <pubDate>Thu, 28 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/about/paul-walsh/</guid>
+      <description>Paul Walsh is a technologist specialising in the design and delivery of solutions for humans with data. As former CEO at the data management company Datopian and former CTO at the Open Knowledge Foundation (OKF), Paul has extensive data management and leadership experience. He has worked directly with high profile clients on technical architecture, data strategy and product development projects across a range of industries and sectors. Paul has also contributed to and maintained a number of open-source codebases used by governments and civic tech organizations globally, and has co-produced various specifications for data interoperability.</description>
+    </item>
+    
+  </channel>
+</rss>

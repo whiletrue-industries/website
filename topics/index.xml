@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/topics/</link>
+    <description>Recent content in Topics on while true industries { solutions for data }</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 16:12:00 +0200</lastBuildDate><atom:link href="https://whiletrue.industries/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CKAN</title>
+      <link>https://whiletrue.industries/topics/ckan/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/ckan/</guid>
+      <description>The Comprehensive Knowledge Archive Network (CKAN) is the world’s leading open-source software for building data management solutions. Whether your organization is big or small, public or private, CKAN enables you to create tailored systems for publishing, sharing, discovering and using data.
+while true founders Adam and Paul have played pivotal roles in major CKAN projects since the software’s inception in 2014. They have both held technical leadership positions at two organizations with strong links to CKAN, the Open Knowledge Foundation (OKF) and Datopian, during which time Paul was elected as a CKAN steward and steering group member.</description>
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>https://whiletrue.industries/topics/data-engineering/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/data-engineering/</guid>
+      <description>Data engineering concerns itself with the practical applications of data work. To be able to collect, use and analyse data, you first need technical infrastructure and mechanisms to ‘house’ that data. Building, optimizing and maintaining this house is the work of the data engineer.
+while true founders Adam and Paul have decades of experience working on data engineering projects for major national governments, multinational companies and global NGOs. Between them, they have held positions including CTO and Engineering Lead at the international Open Knowledge Foundation (OKF), CEO and Senior Engineer at an enterprise-focused data engineering company, and founder of the Israeli open data nonprofit The Public Knowledge Workshop (‘Hasadna’).</description>
+    </item>
+    
+    <item>
+      <title>Data Management</title>
+      <link>https://whiletrue.industries/topics/data-management/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/data-management/</guid>
+      <description>Simply put, data management refers to the process of collecting and organising data within an organization. Having a data management strategy and systems for managing data is becoming increasingly important for modern organizations as they respond to the increasing volume and variety of data being produced in the world today.
+while true founders Adam and Paul have worked on some of the world’s leading data management projects and software. They’ve collaborated with national governments, multinational companies, and global NGOs to design, implement and maintain systems tailored to individual objectives, requirements and budgets.</description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>https://whiletrue.industries/topics/open-data/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/open-data/</guid>
+      <description>Open data is public data (such as data relating to taxes, the climate, education, public spending etc) that has been made ‘open’ (available for all to see, use and distribute without cost or need to seek permission) by means of an open licence.
+while true founders Adam and Paul have decades of experience supporting organizations worldwide to embrace the benefits of open data. They spent years at the forefront of open data thought leadership while working in senior management at the world’s largest open data nonprofit, the Open Knowledge Foundation (OKF), and worked together as CEO and Senior Engineer of a private open-source software company with ties to OKF.</description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://whiletrue.industries/topics/open-source/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/topics/open-source/</guid>
+      <description>Open-source software refers to a type of computer software that is free to use, is not ‘owned’ by any one organization and can be freely copied, distributed and modified under an open license.
+while true founders Adam and Paul have dedicated their professional careers to advocating for open-source data management solutions. In their respective former roles as Engineering Lead and CTO at the Open Knowledge Foundation (OKF), Adam and Paul were some of open source’s earliest proponents.</description>
+    </item>
+    
+  </channel>
+</rss>

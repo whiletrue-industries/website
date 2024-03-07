@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hire us on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/hire/</link>
+    <description>Recent content in Hire us on while true industries { solutions for data }</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 19:37:29 +0200</lastBuildDate><atom:link href="https://whiletrue.industries/hire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consulting</title>
+      <link>https://whiletrue.industries/hire/consulting/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/consulting/</guid>
+      <description>Sometimes all it takes is an expert pair of eyes, so lean on our experience and we’ll make sure your project is doing the best it could be. Whatever you need advice on, we design our involvement as consultants around the type of engagement that works for you.</description>
+    </item>
+    
+    <item>
+      <title>Data Strategy</title>
+      <link>https://whiletrue.industries/hire/data-strategy/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/data-strategy/</guid>
+      <description>From ‘where is all our data?’ to ‘how do we license our data?’, designing technical solutions requires addressing multiple important questions first. We’ll help anticipate the questions that are likely to arise and work with you to find and generate the answers.</description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://whiletrue.industries/hire/engineering/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/engineering/</guid>
+      <description>Our team of vetran technology experts will build your system, from design to deployment. Whether it&amp;rsquo;s a data collection system, a server-side solution or a user-facing application - we have the experience and know how to make it a reality.</description>
+    </item>
+    
+    <item>
+      <title>Technical Architecture</title>
+      <link>https://whiletrue.industries/hire/technical-architecture/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/hire/technical-architecture/</guid>
+      <description>The best modern data solutions are the ones that take non-technical stakeholders and the reality of distributed or inconsistent data sources into account. We know this because we’ve been building them for decades using widely-adopted open-source software.</description>
+    </item>
+    
+  </channel>
+</rss>

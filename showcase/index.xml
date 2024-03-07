@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Work on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/showcase/</link>
+    <description>Recent content in Our Work on while true industries { solutions for data }</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 19:37:29 +0200</lastBuildDate><atom:link href="https://whiletrue.industries/showcase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A complete solution to running CKAN infrastructure in the cloud.</title>
+      <link>https://whiletrue.industries/showcase/ckan-cloud/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/ckan-cloud/</guid>
+      <description>CKAN Cloud is ideal for large organizations managing multiple data catalogs for a number of sub-organizations, or multi-stage data warehouses with unique processing and access control requirements, reducing the complexity and cost of managing multiple distinct CKAN installations.
+Ideal for  Government agencies providing data catalogs for a number of administrations Corporation providing a internal data registries with distinct access control requirements Multi-stage data warehouses for data science and business analyst teams  Core features  Multi-tenant CKAN architecture that leverages Kubernetes to its fullest.</description>
+    </item>
+    
+    <item>
+      <title>Academic Feminist Organizations Database (WPA-IL)</title>
+      <link>https://whiletrue.industries/showcase/maarag/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/maarag/</guid>
+      <description>The WPA-IL database is a comprehensive collection of governmental and non-governmental mechanisms to promote women’s equality, feminism, gender and LGBT rights, which were established in Israel from 1970 to 2018, created an maintained by the Gender Studies Program at Ben Gurion University of the Negev. The websites provides a comprehensive and interactive interface to explore the various organizations and mechanisms, and to compare and contrast the different mechanisms. It also provides extensive documentation of the dataset and the methodology used to collect and process the data.</description>
+    </item>
+    
+    <item>
+      <title>Cataloguing and Mapping Israel&#39;s Social Responses</title>
+      <link>https://whiletrue.industries/showcase/kol-sherut/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/kol-sherut/</guid>
+      <description>An extension to Israel&amp;rsquo;s long-running &amp;ldquo;Kol-Zchut&amp;rdquo; website, the &amp;ldquo;Kol Sherut&amp;rdquo; project aims to provide a comprehensive and up-to-date database of all social services available to Israeli citizens. Scraping and collecting data from various sources, the project maps the data onto a single schema and taxonomy (based on Open Referral&amp;rsquo;s Human Services Data Specification, and adapted to Israel&amp;rsquo;s case) and provides a user-friendly interface for citizens to find the services they need.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Checks and Balances in Democracies</title>
+      <link>https://whiletrue.industries/showcase/gov-limitations/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/gov-limitations/</guid>
+      <description>In collaboration with The Berl Katznelson Foundation, an interactive &amp;ldquo;scrollytelling&amp;rdquo; website was developed to explore the different checks and balances in place in various democracies around the world. The website explains the different mechanisms in place in various countries, and allows the user to compare and contrast the number of checks and balances in place in each country - and compare it to the current state in Israel, especially in light of recent attempted legislation targeted at Israels Supreme Court.</description>
+    </item>
+    
+    <item>
+      <title>How do normal people look like? An Art Installation</title>
+      <link>https://whiletrue.industries/showcase/normalizing/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/normalizing/</guid>
+      <description>Normalizi.ng is an experimental online research in machine-learning that aims to analyze and understand how do we decide who looks more “normal”. When you visit www.Normalizi.ng on your phone you will be asked to take a selfie and then be presented with a series of previously recorded participants. You will then choose who looks more “normal” between pairs of noses, mouths, eyes, and faces. The machine will analyze your decisions and your face and then add you to it’s algorithmic map of normality.</description>
+    </item>
+    
+    <item>
+      <title>Mapping Israel&#39;s Urban Trees for Better City Planning</title>
+      <link>https://whiletrue.industries/showcase/digital-forest/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/digital-forest/</guid>
+      <description>Following a government resolution to improve the state of shading in Israel&amp;rsquo;s urban areas, the Digital Forest Project collects and processes information about urban trees from various sources - tree surveys, various existing databases and sattelite imagery analysis. The project provides a central viewing interface used by decision makers and city officials for better planning, resource allocation and information sharing.</description>
+    </item>
+    
+    <item>
+      <title>Providing Open Data Portals as a Service for Israeli Municipalities</title>
+      <link>https://whiletrue.industries/showcase/datacity/</link>
+      <pubDate>Mon, 26 Feb 2024 15:43:08 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/datacity/</guid>
+      <description>Using our ckan cloud solution, we have developed a platform that enables the Public Knowledge Workshop to provide CKAN as a service to Israeli Municipalities. Ths basic instance is modified and tailored to the specific needs of municipalities - including multi-lingual support, theming, and integration with national level data sources.
+The platform is designed to be easily managed by a local administrator and easily maintained by the Public Knowledge Workshop.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Public, Centralized Search Index for Clinical Trial Metadata</title>
+      <link>https://whiletrue.industries/showcase/open-data-clinical-trials/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/open-data-clinical-trials/</guid>
+      <description>Multiple clinical trials carried out worldwide don’t publish their results. This is despite the fact that this data could be speeding up other trials elsewhere and providing medical researchers and practitioners with valuable information. Open Trials is a response to this crisis, providing an online data portal that aims to locate and share all publicly-accessible data and documents on all medicines and medical trials. While working at the Open Knowledge Foundation, Paul acted as Project Manager and Technical Architect for the Open Trials project, overseeing the overall project direction while implementing many of the technical features.</description>
+    </item>
+    
+    <item>
+      <title>Ensuring Access to Water Point Data</title>
+      <link>https://whiletrue.industries/showcase/water-point-data-exchange/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/water-point-data-exchange/</guid>
+      <description>Open data plays a crucial role in supporting humanitarian aid initiatives. With the WPDx, actors on the ground can gather water point information and upload it straight to the portal. The project was funded by the Global Environment and Technology Foundation and developed by while true’s Adam, who built in a data ingestion engine that allows organizations on the ground to upload their data as they collect it. The platform maps data onto a schema before uploading it to a central database, where it undergoes further cleaning, de-duplication and geoprocessing to maximise its usefulness for stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Giving a Platform to Gender-Equality Data</title>
+      <link>https://whiletrue.industries/showcase/open-data-gender-equality-israel/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/open-data-gender-equality-israel/</guid>
+      <description>Research institutions worldwide are building open data portals to share their findings with citizens everywhere. She Knows (‘Yodaat’), Israel’s Gender Knowledge Center, offers an open data website that presents a large collection of publications, datasets and other information related to gender issues in Israel and elsewhere. With funding from the Ministry of Social Equity, the website was built by the team at the Public Knowledge Workshop, an Israeli nonprofit of which while true’s Adam is co-founder.</description>
+    </item>
+    
+    <item>
+      <title>Improving Data Usability at a Major Global Philanthropic Organization</title>
+      <link>https://whiletrue.industries/showcase/data-cataloging-usability-philanthropy/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/data-cataloging-usability-philanthropy/</guid>
+      <description>Data management is becoming an increasingly important concern for philanthropic organizations, which collect diverse data from multiple sources in an effort to raise public awareness of certain issues and influence policymaking. For years, Paul worked with one of the world’s largest philanthropic organizations to build and customize their CKAN data portal that would allow them to share data internally and with external stakeholders. In his capacity as Product Owner for the delivery team and Strategy Consultant to the client leadership, Paul defined the product direction and provided practical expertise on best approaches to complex technical features like data versioning and access permissioning.</description>
+    </item>
+    
+    <item>
+      <title>Introducing the Data Genus Processor (DGP) &amp; Dataflows Libraries</title>
+      <link>https://whiletrue.industries/showcase/dataflows-and-data-genus-processor/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/dataflows-and-data-genus-processor/</guid>
+      <description>While true design, contribute to, and maintain a number of well-adopted, open-source libraries for working with data. Dataflows and DGP were built and maintained with open source methodologies and are the main power tools behind most of our data processing projects. From a simple solution for a small dataset up to a complete data ingestion platform for cleaning, mapping and publishing datasets, these two libraries are field-proven to provide a reliable and quick solution.</description>
+    </item>
+    
+    <item>
+      <title>Opening Up Municipal Data in the Israeli City of Beersheba</title>
+      <link>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</guid>
+      <description>Like many cities worldwide, Beersheba uses CKAN to openly publish municipal data. When they engaged while true founder Adam, the city’s authorities were looking to replace an old CKAN instance and migrate their data into a new, improved CKAN solution. Adam worked with Beersheba to a) create a containerized CKAN deployment that was customized to their needs, b) modify their instance to suit their data schema, and c) develop a custom ETL service based on the Jenkins platform and the Dataflows Library that pulled data from various internal, domain-specific systems (such as ESRI ArcGIS).</description>
+    </item>
+    
+    <item>
+      <title>Predicting COVID-19 outbreaks by a Symptom Tracking Application</title>
+      <link>https://whiletrue.industries/showcase/corona-israel/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/corona-israel/</guid>
+      <description>Corona Israel was an early symptom-tracking application developed during the first wave of COVID-19 in Israel, done in collaboration with the Weizmann Institute in Israel. The web application provided an interactive, chat-based experience to collect data from visitors, and presented collected information on a map to location potential areas of outbreak. The cloud based backend system integrated WIS data science algorithms to create a ‘probability of outbreak’ map, on a neighborhood level, updated daily.</description>
+    </item>
+    
+    <item>
+      <title>Producing a Data Management Research Paper for the World Bank</title>
+      <link>https://whiletrue.industries/showcase/world-bank-frictionless-data-management/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/world-bank-frictionless-data-management/</guid>
+      <description>The World Bank is one of the world’s major contributors of global development data. A large part of its work includes collecting data sets known as ‘indicators’ to measure the progress of the UN’s Sustainable Development Goals (SDGs). While working as CEO at the data management company Datopian, Paul co-authored a whitepaper commissioned by the Bank to assess the ways in which the open-source toolkit Frictionless Data could benefit statistical organizations in the production of SDG indicators.</description>
+    </item>
+    
+    <item>
+      <title>Producing an SMB Information Portal for the City of Beer Sheba</title>
+      <link>https://whiletrue.industries/showcase/business-gate/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/business-gate/</guid>
+      <description>Business Gate is a project aimed at providing small business entrepreneurs in the city of Beer Sheba relevant information about opportunities, licensing requirements, fees and other various insights - all contextual to their selected business type and location. The innovative user interface, based on a friendly chatbot, takes the user through a list of questions, explanations and deep-dives into the various aspects of starting a business, until finally leaving the user with a handy pack of cards, to be reviewed at all times, and a point of contact in the municipality to follow up the process.</description>
+    </item>
+    
+    <item>
+      <title>Publishing the World’s Primary Fiscal Data Sets</title>
+      <link>https://whiletrue.industries/showcase/openspending/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/openspending/</guid>
+      <description>OpenSpending is an open-source, global database for fiscal data that was developed by the Open Knowledge Foundation (OKF) and primarily funded by The Global Initiative for Fiscal Transparency (GIFT). It while true founders Adam and Paul worked with colleagues at OKF and a range of government and civic tech stakeholders to design a powerful, flexible system that allowed users to upload and visualize fiscal data. As part of this effort, they created a fiscal data schema that later evolved into the full standard known as the Fiscal Data Package.</description>
+    </item>
+    
+    <item>
+      <title>Standardizing UK-Government Fiscal Data</title>
+      <link>https://whiletrue.industries/showcase/uk-governement-fiscal-data/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/uk-governement-fiscal-data/</guid>
+      <description>In a positive trend, multiple governments are choosing to publish finance and spending data as part of open government and transparency initiatives. Public spending data is a great example of a type of public data that should be made open, since how taxpayers’ money is spent is of direct concern to citizens. While CTO at the Open Knowledge Foundation (OKF), Paul worked with the UK Cabinet Office’s Transparency Team, as well as the UK SBS office, to develop technologies and methodologies for standardizing the publication of finance data.</description>
+    </item>
+    
+    <item>
+      <title>Subsidy Stories - making EU Funds transparent</title>
+      <link>https://whiletrue.industries/showcase/subsidy-stories/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:39 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/subsidy-stories/</guid>
+      <description>Subsidystories.eu intends to increase transparency of EU-Funds by unravelling how the European Structural Investment Funds are spent (The European Structural and Cohesion Funds (ESIF) are the main financial instrument for the implementation of the EU&amp;rsquo;s regional policy. They cover 44 % of the overall 1082 Billion 7-year EU budget). We collected and standardised all available beneficiary lists for the ERDF, ESF and CF for the 2007-2013 and 2014-2020 funding periods. The data is published independently by all member states and independent regions, in various formats (CSV files, Excel, PDF and websites).</description>
+    </item>
+    
+    <item>
+      <title>Budget Key</title>
+      <link>https://whiletrue.industries/showcase/budgetkey/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/showcase/budgetkey/</guid>
+      <description>The BudgetKey project is an open-source, volunteer-based project that has been making Israeli government finances more accessible and understandable to the public for over a decade. From writing the code to heading off to parliament to discuss the project with journalists, the BudgetKey project was completely developed and led by while true co-founder Adam. It offers a powerful ETL feature capable of scraping and collecting data from over 30 different government data sources and combining them into a single database.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/solutions/</link>
+    <description>Recent content in Solutions on while true industries { solutions for data }</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 19:37:29 +0200</lastBuildDate><atom:link href="https://whiletrue.industries/solutions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CKAN Cloud</title>
+      <link>https://whiletrue.industries/solutions/ckan-cloud/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/ckan-cloud/</guid>
+      <description>Take the complexity out of CKAN hosting with our managed, multi-tenant CKAN in the cloud. Our open source CKAN hosting infrastructure runs on Kubernetes (k8s) and can be deployed to any major cloud provider (AWS, Azure, Google Cloud), or your own infrastructure.
+CKAN Cloud is ideal for large organizations managing multiple data catalogs for a number of sub-organizations, or multi-stage data warehouses with unique processing and access control requirements, reducing the complexity and cost of managing multiple distinct CKAN installations.</description>
+    </item>
+    
+    <item>
+      <title>Data Driven Apps</title>
+      <link>https://whiletrue.industries/solutions/data-driven-apps/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/data-driven-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering Infrastructure</title>
+      <link>https://whiletrue.industries/solutions/data-engineering-infrastructure/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/data-engineering-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Management Systems</title>
+      <link>https://whiletrue.industries/solutions/data-management-systems/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/data-management-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Catalogs</title>
+      <link>https://whiletrue.industries/solutions/open-data-catalogs/</link>
+      <pubDate>Sun, 31 Jan 2021 16:12:00 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/solutions/open-data-catalogs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

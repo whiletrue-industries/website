@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Team on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/about/</link>
+    <description>Recent content in Our Team on while true industries { solutions for data }</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 19:37:29 +0200</lastBuildDate><atom:link href="https://whiletrue.industries/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adam Kariv</title>
+      <link>https://whiletrue.industries/about/adam-kariv/</link>
+      <pubDate>Sun, 31 Jan 2021 19:37:29 +0201</pubDate>
+      
+      <guid>https://whiletrue.industries/about/adam-kariv/</guid>
+      <description>Adam Kariv is an open data consultant and activist. He has over 25 years of experience in developing, designing and managing software projects, from open-source data-wrangling libraries to enterprise-scale, mission-critical systems developed by over 20 engineers. He is the founder of the Public Knowledge Workshop (‘Hasadna’), an Israeli NGO working to make government data more accessible, and has extensive experience working with government agencies to build better tools for publishing data.</description>
+    </item>
+    
+    <item>
+      <title>Mushon Zer-Aviv</title>
+      <link>https://whiletrue.industries/about/mushon-zer-aviv/</link>
+      <pubDate>Sat, 30 Jan 2021 19:37:29 +0202</pubDate>
+      
+      <guid>https://whiletrue.industries/about/mushon-zer-aviv/</guid>
+      <description>Mushon Zer-Aviv is a designer, an educator and a media activist based in Tel Aviv. His love/hate relationship with data informs his design work, art pieces, activism, research, lectures, workshops &amp;amp; city life. Among Mushon&amp;rsquo;s collaborations, he is the CO-founder of Shual.com - a foxy design studio; the Normalizing Machine - exploring algorithmic prejudice; the AdNauseam extension - clicking ads so you don&amp;rsquo;t have to; and multiple government transparency and civic participation initiatives with the Public Knowledge Workshop; Mushon also designed the maps for Waze.</description>
+    </item>
+    
+    <item>
+      <title>Mor Rubinstein</title>
+      <link>https://whiletrue.industries/about/mor-rubinstein/</link>
+      <pubDate>Fri, 29 Jan 2021 19:37:29 +0201</pubDate>
+      
+      <guid>https://whiletrue.industries/about/mor-rubinstein/</guid>
+      <description>Mor Rubinstein is a technologist with a decade of experience in data, civic tech and open government. She specializes in data transformation in the third sector, data literacy, open data and data feminism. She is currently the Head of Data Strategy at Parkinson’s UK, where she helps to build better infrastructure and data culture. Previously she worked as the product and program manager at 360Giving, where she developed a data standard for philanthropy.</description>
+    </item>
+    
+    <item>
+      <title>Paul Walsh</title>
+      <link>https://whiletrue.industries/about/paul-walsh/</link>
+      <pubDate>Thu, 28 Jan 2021 19:37:29 +0200</pubDate>
+      
+      <guid>https://whiletrue.industries/about/paul-walsh/</guid>
+      <description>Paul Walsh is a technologist specialising in the design and delivery of solutions for humans with data. As former CEO at the data management company Datopian and former CTO at the Open Knowledge Foundation (OKF), Paul has extensive data management and leadership experience. He has worked directly with high profile clients on technical architecture, data strategy and product development projects across a range of industries and sectors. Paul has also contributed to and maintained a number of open-source codebases used by governments and civic tech organizations globally, and has co-produced various specifications for data interoperability.</description>
+    </item>
+    
+  </channel>
+</rss>
