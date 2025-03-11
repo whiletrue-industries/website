@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/environment/</link>
+    <description>Recent content in Environment on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping Israel&#39;s Urban Trees for Better City Planning</title>
+      <link>https://whiletrue.industries/showcase/digital-forest/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/digital-forest/</guid>
+      <description>&lt;p&gt;Following a government resolution to improve the state of shading in Israel&amp;rsquo;s urban areas, the Digital Forest Project collects and processes information about urban trees from various sources - tree surveys, various existing databases and satellite imagery analysis. The project provides a central viewing interface used by decision makers and city officials for better planning, resource allocation and information sharing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Digital Street and Shade Tree Catalog</title>
+      <link>https://whiletrue.industries/showcase/treecatalog/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/treecatalog/</guid>
+      <description>&lt;p&gt;The information is intended to assist architects, planners, and local government officials in making informed and educated choices, while reducing maintenance requirements and future costs.&lt;/p&gt;&#xA;&lt;p&gt;The catalog allows users to filter tree species based on planning considerations, compare maintenance and environmental factors, and find similar trees to those selected. It also enables users to share detailed tree information, create a personalized tree list, and freely use images under a permissive license.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ensuring Access to Water Point Data</title>
+      <link>https://whiletrue.industries/showcase/water-point-data-exchange/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/water-point-data-exchange/</guid>
+      <description>&lt;p&gt;Open data plays a crucial role in supporting humanitarian aid initiatives. With the WPDx, actors on the ground can gather water point information and upload it straight to the portal. The project was funded by the Global Environment and Technology Foundation and developed by while true’s Adam, who built in a data ingestion engine that allows organizations on the ground to upload their data as they collect it. The platform maps data onto a schema before uploading it to a central database, where it undergoes further cleaning, de-duplication and geoprocessing to maximise its usefulness for stakeholders.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

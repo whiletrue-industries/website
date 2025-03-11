@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-Learning on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/machine-learning/</link>
+    <description>Recent content in Machine-Learning on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do normal people look like? An Art Installation</title>
+      <link>https://whiletrue.industries/showcase/normalizing/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/normalizing/</guid>
+      <description>&lt;p&gt;Normalizi.ng is an experimental online research in machine-learning that aims to analyze and understand how do we decide who looks more “normal”. When you visit &lt;a href=&#34;https://www.Normalizi.ng&#34;&gt;www.Normalizi.ng&lt;/a&gt; on your phone you will be asked to take a selfie and then be presented with a series of previously recorded participants. You will then choose who looks more “normal” between pairs of noses, mouths, eyes, and faces. The machine will analyze your decisions and your face and then add you to it’s algorithmic map of normality.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Municipalities on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/municipalities/</link>
+    <description>Recent content in Municipalities on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/municipalities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping Israel&#39;s Urban Trees for Better City Planning</title>
+      <link>https://whiletrue.industries/showcase/digital-forest/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/digital-forest/</guid>
+      <description>&lt;p&gt;Following a government resolution to improve the state of shading in Israel&amp;rsquo;s urban areas, the Digital Forest Project collects and processes information about urban trees from various sources - tree surveys, various existing databases and satellite imagery analysis. The project provides a central viewing interface used by decision makers and city officials for better planning, resource allocation and information sharing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Providing Open Data Portals as a Service for Israeli Municipalities</title>
+      <link>https://whiletrue.industries/showcase/datacity/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/datacity/</guid>
+      <description>&lt;p&gt;Using our ckan cloud solution, we have developed a platform that enables the Public Knowledge Workshop to provide CKAN as a service to Israeli Municipalities. Ths basic instance is modified and tailored to the specific needs of municipalities - including multi-lingual support, theming, and integration with national level data sources.&lt;/p&gt;&#xA;&lt;p&gt;The platform is designed to be easily managed by a local administrator and easily maintained by the Public Knowledge Workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opening Up Municipal Data in the Israeli City of Beersheba</title>
+      <link>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</guid>
+      <description>&lt;p&gt;Like many cities worldwide, Beersheba uses CKAN to openly publish municipal data. When they engaged while true founder Adam, the city’s authorities were looking to replace an old CKAN instance and migrate their data into a new, improved CKAN solution. Adam worked with Beersheba to a) create a containerized CKAN deployment that was customized to their needs, b) modify their instance to suit their data schema, and c) develop a custom ETL service based on the Jenkins platform and the Dataflows Library that pulled data from various internal, domain-specific systems (such as ESRI ArcGIS).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Producing an SMB Information Portal for the City of Beer Sheba</title>
+      <link>https://whiletrue.industries/showcase/business-gate/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/business-gate/</guid>
+      <description>&lt;p&gt;Business Gate is a project aimed at providing small business entrepreneurs in the city of Beer Sheba relevant information about opportunities, licensing requirements, fees and other various insights - all contextual to their selected business type and location.&#xA;The innovative user interface, based on a friendly chatbot, takes the user through a list of questions, explanations and deep-dives into the various aspects of starting a business, until finally leaving the user with a handy pack of cards, to be reviewed at all times, and a point of contact in the municipality to follow up the process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Digital Street and Shade Tree Catalog</title>
+      <link>https://whiletrue.industries/showcase/treecatalog/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/treecatalog/</guid>
+      <description>&lt;p&gt;The information is intended to assist architects, planners, and local government officials in making informed and educated choices, while reducing maintenance requirements and future costs.&lt;/p&gt;&#xA;&lt;p&gt;The catalog allows users to filter tree species based on planning considerations, compare maintenance and environmental factors, and find similar trees to those selected. It also enables users to share detailed tree information, create a personalized tree list, and freely use images under a permissive license.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User-Interface on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/user-interface/</link>
+    <description>Recent content in User-Interface on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/user-interface/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cataloguing and Mapping Israel&#39;s Social Responses</title>
+      <link>https://whiletrue.industries/showcase/kol-sherut/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/kol-sherut/</guid>
+      <description>&lt;p&gt;An extension to Israel&amp;rsquo;s long-running &amp;ldquo;Kol-Zchut&amp;rdquo; website, the &amp;ldquo;Kol Sherut&amp;rdquo; project aims to provide a comprehensive and up-to-date database of all social services available to Israeli citizens. Scraping and collecting data from various sources, the project maps the data onto a single schema and taxonomy (based on Open Referral&amp;rsquo;s Human Services Data Specification, and adapted to Israel&amp;rsquo;s case) and provides a user-friendly interface for citizens to find the services they need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring Checks and Balances in Democracies</title>
+      <link>https://whiletrue.industries/showcase/gov-limitations/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/gov-limitations/</guid>
+      <description>&lt;p&gt;In collaboration with The Berl Katznelson Foundation, an interactive &amp;ldquo;scrollytelling&amp;rdquo; website was developed to explore the different checks and balances in place in various democracies around the world. The website explains the different mechanisms in place in various countries, and allows the user to compare and contrast the number of checks and balances in place in each country - and compare it to the current state in Israel, especially in light of recent attempted legislation targeted at Israels Supreme Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comparing Family Policies in OECD Countries</title>
+      <link>https://whiletrue.industries/showcase/family-idx/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/family-idx/</guid>
+      <description>&lt;p&gt;In collaboration with The Berl Katznelson Foundation, an interactive &amp;ldquo;scrollytelling&amp;rdquo; website was developed to explore the different policies related to young families in various OECD countries. The website scores each of these policies in three different categories, and allows the user to compare and contrast the different policies in place in each country. The website also allows the user to compare the policies in place in each country to the current state of family support policies in Israel, highlighting areas of strength and opportunities for improvement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Producing an SMB Information Portal for the City of Beer Sheba</title>
+      <link>https://whiletrue.industries/showcase/business-gate/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/business-gate/</guid>
+      <description>&lt;p&gt;Business Gate is a project aimed at providing small business entrepreneurs in the city of Beer Sheba relevant information about opportunities, licensing requirements, fees and other various insights - all contextual to their selected business type and location.&#xA;The innovative user interface, based on a friendly chatbot, takes the user through a list of questions, explanations and deep-dives into the various aspects of starting a business, until finally leaving the user with a handy pack of cards, to be reviewed at all times, and a point of contact in the municipality to follow up the process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How do normal people look like? An Art Installation</title>
+      <link>https://whiletrue.industries/showcase/normalizing/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/normalizing/</guid>
+      <description>&lt;p&gt;Normalizi.ng is an experimental online research in machine-learning that aims to analyze and understand how do we decide who looks more “normal”. When you visit &lt;a href=&#34;https://www.Normalizi.ng&#34;&gt;www.Normalizi.ng&lt;/a&gt; on your phone you will be asked to take a selfie and then be presented with a series of previously recorded participants. You will then choose who looks more “normal” between pairs of noses, mouths, eyes, and faces. The machine will analyze your decisions and your face and then add you to it’s algorithmic map of normality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Atlas of Mediterranean Liquidity</title>
+      <link>https://whiletrue.industries/showcase/medliq/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/medliq/</guid>
+      <description>&lt;p&gt;The platform offers a growing collection of maps, devoted to different questions about the Mediterranean Liquidity: Water use, people and culture around water sources, historical events of disasters and damage to the sea, future speculations about changing sealines or drinking water shortages and so on; not only to coastal regions but to the entire geographical area of neighboring countries, including inland areas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting COVID-19 outbreaks by a Symptom Tracking Application</title>
+      <link>https://whiletrue.industries/showcase/corona-israel/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/corona-israel/</guid>
+      <description>&lt;p&gt;Corona Israel was an early symptom-tracking application developed during the first wave of COVID-19 in Israel, done in collaboration with the Weizmann Institute in Israel.&#xA;The web application provided an interactive, chat-based experience to collect data from visitors, and presented collected information on a map to location potential areas of outbreak.&#xA;The cloud based backend system integrated WIS data science algorithms to create a ‘probability of outbreak’ map, on a neighborhood level, updated daily.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

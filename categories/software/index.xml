@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/software/</link>
+    <description>Recent content in Software on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing the Data Genus Processor (DGP) &amp; Dataflows Libraries</title>
+      <link>https://whiletrue.industries/showcase/dataflows-and-data-genus-processor/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/dataflows-and-data-genus-processor/</guid>
+      <description>&lt;p&gt;While true design, contribute to, and maintain a number of well-adopted, open-source libraries for working with data. Dataflows and DGP were built and maintained with open source methodologies and are the main power tools behind most of our data processing projects. From a simple solution for a small dataset up to a complete data ingestion platform for cleaning, mapping and publishing datasets, these two libraries are field-proven to provide a reliable and quick solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A complete solution to running CKAN infrastructure in the cloud.</title>
+      <link>https://whiletrue.industries/showcase/ckan-cloud/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/ckan-cloud/</guid>
+      <description>&lt;p&gt;CKAN Cloud is ideal for large organizations managing multiple data catalogs for a number of sub-organizations, or multi-stage data warehouses with unique processing and access control requirements, reducing the complexity and cost of managing multiple distinct CKAN installations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ideal-for&#34;&gt;Ideal for&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Government agencies providing data catalogs for a number of administrations&lt;/li&gt;&#xA;&lt;li&gt;Corporation providing a internal data registries with distinct access control requirements&lt;/li&gt;&#xA;&lt;li&gt;Multi-stage data warehouses for data science and business analyst teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;core-features&#34;&gt;Core features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-tenant CKAN architecture that leverages Kubernetes to its fullest.&lt;/li&gt;&#xA;&lt;li&gt;Custom administration interface to provision, configure, upgrade and decommission CKAN and supporting services with ease&lt;/li&gt;&#xA;&lt;li&gt;Runs in public and private clouds leveraging cloud-native permissions and access control&lt;/li&gt;&#xA;&lt;li&gt;Seamless integration with cloud provider APIs and services for scalable object storage, database servers, and cloud-native data processing tooling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;used-by&#34;&gt;Used by&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.hasadna.org.il/en/&#34;&gt;The Public Knowledge Workshop&lt;/a&gt; runs CKAN Cloud to provide CKAN services to a range of government and non-profit entities in Israel.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

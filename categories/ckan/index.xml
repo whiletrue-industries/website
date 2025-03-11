@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ckan on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/ckan/</link>
+    <description>Recent content in Ckan on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/ckan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Providing Open Data Portals as a Service for Israeli Municipalities</title>
+      <link>https://whiletrue.industries/showcase/datacity/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/datacity/</guid>
+      <description>&lt;p&gt;Using our ckan cloud solution, we have developed a platform that enables the Public Knowledge Workshop to provide CKAN as a service to Israeli Municipalities. Ths basic instance is modified and tailored to the specific needs of municipalities - including multi-lingual support, theming, and integration with national level data sources.&lt;/p&gt;&#xA;&lt;p&gt;The platform is designed to be easily managed by a local administrator and easily maintained by the Public Knowledge Workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opening Up Municipal Data in the Israeli City of Beersheba</title>
+      <link>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/municipal-open-data-ckan-beersheba/</guid>
+      <description>&lt;p&gt;Like many cities worldwide, Beersheba uses CKAN to openly publish municipal data. When they engaged while true founder Adam, the city’s authorities were looking to replace an old CKAN instance and migrate their data into a new, improved CKAN solution. Adam worked with Beersheba to a) create a containerized CKAN deployment that was customized to their needs, b) modify their instance to suit their data schema, and c) develop a custom ETL service based on the Jenkins platform and the Dataflows Library that pulled data from various internal, domain-specific systems (such as ESRI ArcGIS).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A complete solution to running CKAN infrastructure in the cloud.</title>
+      <link>https://whiletrue.industries/showcase/ckan-cloud/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/ckan-cloud/</guid>
+      <description>&lt;p&gt;CKAN Cloud is ideal for large organizations managing multiple data catalogs for a number of sub-organizations, or multi-stage data warehouses with unique processing and access control requirements, reducing the complexity and cost of managing multiple distinct CKAN installations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ideal-for&#34;&gt;Ideal for&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Government agencies providing data catalogs for a number of administrations&lt;/li&gt;&#xA;&lt;li&gt;Corporation providing a internal data registries with distinct access control requirements&lt;/li&gt;&#xA;&lt;li&gt;Multi-stage data warehouses for data science and business analyst teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;core-features&#34;&gt;Core features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-tenant CKAN architecture that leverages Kubernetes to its fullest.&lt;/li&gt;&#xA;&lt;li&gt;Custom administration interface to provision, configure, upgrade and decommission CKAN and supporting services with ease&lt;/li&gt;&#xA;&lt;li&gt;Runs in public and private clouds leveraging cloud-native permissions and access control&lt;/li&gt;&#xA;&lt;li&gt;Seamless integration with cloud provider APIs and services for scalable object storage, database servers, and cloud-native data processing tooling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;used-by&#34;&gt;Used by&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.hasadna.org.il/en/&#34;&gt;The Public Knowledge Workshop&lt;/a&gt; runs CKAN Cloud to provide CKAN services to a range of government and non-profit entities in Israel.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

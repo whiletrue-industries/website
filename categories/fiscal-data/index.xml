@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fiscal-Data on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/fiscal-data/</link>
+    <description>Recent content in Fiscal-Data on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/fiscal-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Budget Key</title>
+      <link>https://whiletrue.industries/showcase/budgetkey/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/budgetkey/</guid>
+      <description>&lt;p&gt;The BudgetKey project is an open-source, volunteer-based project that has been making Israeli government finances more accessible and understandable to the public for over a decade. From writing the code to heading off to parliament to discuss the project with journalists, the BudgetKey project was completely developed and led by while true co-founder Adam. It offers a powerful ETL feature capable of scraping and collecting data from over 30 different government data sources and combining them into a single database. With an intuitive and attractive website, the BudgetKey project allows stakeholders to access data relating to government budget, procurement, subsidies and contracts. It has become a central tool among activists and government officials.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publishing the World’s Primary Fiscal Data Sets</title>
+      <link>https://whiletrue.industries/showcase/openspending/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/openspending/</guid>
+      <description>&lt;p&gt;OpenSpending is an open-source, global database for fiscal data that was developed by the Open Knowledge Foundation (OKF) and primarily funded by The Global Initiative for Fiscal Transparency (GIFT). It while true founders Adam and Paul worked with colleagues at OKF and a range of government and civic tech stakeholders to design a powerful, flexible system that allowed users to upload and visualize fiscal data. As part of this effort, they created a fiscal data schema that later evolved into the full standard known as the Fiscal Data Package.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Social Procurement Portal</title>
+      <link>https://whiletrue.industries/showcase/social-pro/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/social-pro/</guid>
+      <description>&lt;p&gt;This project, in cooperation with Israel&amp;rsquo;s Prime Minister&amp;rsquo;s Office, aims to map all the social services the government provides in the fields of welfare, education and health.&lt;/p&gt;&#xA;&lt;p&gt;Working with the different government ministries&amp;rsquo;s procurement departments, the project collects and processes data on the different social services, their budgets and the suppliers that were contracted to provide them. The data is then presented in an intuitive and user-friendly interface, allowing the public to access detailed information and insights on the government&amp;rsquo;s social services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A New Data Architecture for the Israeli Government Procurement Systems</title>
+      <link>https://whiletrue.industries/showcase/procurement-map/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/procurement-map/</guid>
+      <description>&lt;p&gt;The Procurement Agency in the Israeli government hired us to map and analyze the data architecture of the government procurement systems. The goal was to define a new data architecture that would allow for better data analysis and reporting, and to improve the transparency and efficiency of the procurement process.&lt;/p&gt;&#xA;&lt;p&gt;In order to define the data architecture, we mapped the procurement systems in the government and various ministries according to the definition of the procurement administration. For this process, we used interviews that had already been conducted with some of the system leaders in addition to the completion of procurement administration personnel. The mapping included information about the nature of the system, how the information is stored and where, who the users are, whether there are BI reports today, how to access the information, what the process looks like in the system, and at what stages in the procurement it responds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Subsidy Stories - making EU Funds transparent</title>
+      <link>https://whiletrue.industries/showcase/subsidy-stories/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/subsidy-stories/</guid>
+      <description>&lt;p&gt;Subsidystories.eu intends to increase transparency of EU-Funds by unravelling how the European Structural Investment Funds are spent (The European Structural and Cohesion Funds (ESIF) are the main financial instrument for the implementation of the EU&amp;rsquo;s regional policy. They cover 44 % of the overall 1082 Billion 7-year EU budget).&#xA;We collected and standardised all available beneficiary lists for the ERDF, ESF and CF for the 2007-2013 and 2014-2020 funding periods. The data is published independently by all member states and independent regions, in various formats (CSV files, Excel, PDF and websites).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social-Impact on while true industries { solutions for data }</title>
+    <link>https://whiletrue.industries/categories/social-impact/</link>
+    <description>Recent content in Social-Impact on while true industries { solutions for data }</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://whiletrue.industries/categories/social-impact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cataloguing and Mapping Israel&#39;s Social Responses</title>
+      <link>https://whiletrue.industries/showcase/kol-sherut/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/kol-sherut/</guid>
+      <description>&lt;p&gt;An extension to Israel&amp;rsquo;s long-running &amp;ldquo;Kol-Zchut&amp;rdquo; website, the &amp;ldquo;Kol Sherut&amp;rdquo; project aims to provide a comprehensive and up-to-date database of all social services available to Israeli citizens. Scraping and collecting data from various sources, the project maps the data onto a single schema and taxonomy (based on Open Referral&amp;rsquo;s Human Services Data Specification, and adapted to Israel&amp;rsquo;s case) and provides a user-friendly interface for citizens to find the services they need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring Checks and Balances in Democracies</title>
+      <link>https://whiletrue.industries/showcase/gov-limitations/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/gov-limitations/</guid>
+      <description>&lt;p&gt;In collaboration with The Berl Katznelson Foundation, an interactive &amp;ldquo;scrollytelling&amp;rdquo; website was developed to explore the different checks and balances in place in various democracies around the world. The website explains the different mechanisms in place in various countries, and allows the user to compare and contrast the number of checks and balances in place in each country - and compare it to the current state in Israel, especially in light of recent attempted legislation targeted at Israels Supreme Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comparing Family Policies in OECD Countries</title>
+      <link>https://whiletrue.industries/showcase/family-idx/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/family-idx/</guid>
+      <description>&lt;p&gt;In collaboration with The Berl Katznelson Foundation, an interactive &amp;ldquo;scrollytelling&amp;rdquo; website was developed to explore the different policies related to young families in various OECD countries. The website scores each of these policies in three different categories, and allows the user to compare and contrast the different policies in place in each country. The website also allows the user to compare the policies in place in each country to the current state of family support policies in Israel, highlighting areas of strength and opportunities for improvement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ensuring Access to Water Point Data</title>
+      <link>https://whiletrue.industries/showcase/water-point-data-exchange/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/water-point-data-exchange/</guid>
+      <description>&lt;p&gt;Open data plays a crucial role in supporting humanitarian aid initiatives. With the WPDx, actors on the ground can gather water point information and upload it straight to the portal. The project was funded by the Global Environment and Technology Foundation and developed by while true’s Adam, who built in a data ingestion engine that allows organizations on the ground to upload their data as they collect it. The platform maps data onto a schema before uploading it to a central database, where it undergoes further cleaning, de-duplication and geoprocessing to maximise its usefulness for stakeholders.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giving a Platform to Gender-Equality Data</title>
+      <link>https://whiletrue.industries/showcase/open-data-gender-equality-israel/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/open-data-gender-equality-israel/</guid>
+      <description>&lt;p&gt;Research institutions worldwide are building open data portals to share their findings with citizens everywhere. She Knows (‘Yodaat’),  Israel’s Gender Knowledge Center, offers an open data website that presents a large collection of publications, datasets and other information related to gender issues in Israel and elsewhere. With funding from the Ministry of Social Equity, the website was built by the team at the Public Knowledge Workshop, an Israeli nonprofit of which while true’s Adam is co-founder. Adam collaborated with She Knows to build a data collection system that could import and then combine data from multiple sources and generate clean, uniform datasets. The result was a beautiful, multilingual web interface.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting COVID-19 outbreaks by a Symptom Tracking Application</title>
+      <link>https://whiletrue.industries/showcase/corona-israel/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/corona-israel/</guid>
+      <description>&lt;p&gt;Corona Israel was an early symptom-tracking application developed during the first wave of COVID-19 in Israel, done in collaboration with the Weizmann Institute in Israel.&#xA;The web application provided an interactive, chat-based experience to collect data from visitors, and presented collected information on a map to location potential areas of outbreak.&#xA;The cloud based backend system integrated WIS data science algorithms to create a ‘probability of outbreak’ map, on a neighborhood level, updated daily.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Academic Feminist Organizations Database (WPA-IL)</title>
+      <link>https://whiletrue.industries/showcase/maarag/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://whiletrue.industries/showcase/maarag/</guid>
+      <description>&lt;p&gt;The WPA-IL database is a comprehensive collection of governmental and non-governmental mechanisms to promote women’s equality, feminism, gender and LGBT rights, which were established in Israel from 1970 to 2018, created an maintained by the Gender Studies Program at Ben Gurion University of the Negev. The websites provides a comprehensive and interactive interface to explore the various organizations and mechanisms, and to compare and contrast the different mechanisms. It also provides extensive documentation of the dataset and the methodology used to collect and process the data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
